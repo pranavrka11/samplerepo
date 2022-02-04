@@ -1,1 +1,3 @@
 Final file to check
+
+Adding a new line
